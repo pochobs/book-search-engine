@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "books-search",
     "version": "1.0.0",
     "main": "server/server.js",
   "description": "a search bar, that users can log in to save books.",
