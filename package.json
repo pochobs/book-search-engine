@@ -1,5 +1,5 @@
 {
-  "name": "book-search",
+  "name": "book-search-engine",
   "version": "1.0.0",
   "description": "a search bar, that users can log in to save books.",
   "main": "server/server.js",
