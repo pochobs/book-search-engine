@@ -1,6 +1,9 @@
 {
   "name": "book-search-engine",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.11.1"
+    },
   "description": "a search bar, that users can log in to save books.",
   "main": "server/server.js",
   "scripts": {
