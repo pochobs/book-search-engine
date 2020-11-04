@@ -16,17 +16,12 @@ This application is a place to search and find articles, images, and videos on h
 npm install in the root of the repository, then npm start
 
 ## Usage  
-You can access from your _favorite browser on your **computer, ipad, or mobile phone**_.
-Users can search for articles of interest, where they can find content, images, and videos about a certain area of interest.
-Users can also register for an account in order to create articles on a specific interest to share with other users.
-Registered users that create content can also accept donations from users that enjoy their contributions.
+This app, has a powerfull search for books, if you subscribe you can save books
 
-### Presentation
-[canva.com](https://www.canva.com/design/DAELjSyWfPA/GurvMkKaZmnZNI9mvZS7uw/view?utm_content=DAELjSyWfPA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Deployment
-* [Link to app](https://floating-spire-39046.herokuapp.com)
-* [Github](https://github.com/evkonradi/teach-me-to)
+* [Link to app](https://frozen-inlet-55586.herokuapp.com)
+* [Github](https://github.com/pochobs/book-search-engine)
         
 ## Technologies
 
