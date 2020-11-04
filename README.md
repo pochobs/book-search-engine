@@ -1,5 +1,4 @@
 # Book Search Engine Starter Code
-# Teach Me To
 
 ## DESCRIPTION
 This application is a place to search and find articles, images, and videos on how to get better in a specific area of interest.
@@ -20,7 +19,7 @@ This app, has a powerfull search for books, if you subscribe you can save books
 
 
 ### Deployment
-* [Link to app](https://frozen-inlet-55586.herokuapp.com)
+* [Link to app](https://frozen-inlet-55586.herokuapp.com    )
 * [Github](https://github.com/pochobs/book-search-engine)
         
 ## Technologies
